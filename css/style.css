@@ -140,10 +140,6 @@ input::placeholder {
         flex: 1;
         text-align: center;
     }
-    .section-header-wrapper_form {
-        width: 70%;
-        margin: 0 auto;
-    }
   }
 
 /*Promo*/
