@@ -134,7 +134,7 @@ input::placeholder {
 }
 @media (min-width: 768px) {
     .section-header-wrapper_form-input {
-        margin-right: 40px;
+        margin-left: 40px;
     }
     .section-header-wrapper_form-btn {
         flex: 1;
